@@ -1,10 +1,10 @@
 # Computer
-- ~~[Mikrotik 10Gbps switch](https://mikrotik.com/product/css610_8g_2s_in#fndtn-specifications)~~
-- Case Fans (140mm Arctic P14 - White)
+- [Mikrotik 10Gbps switch](https://mikrotik.com/product/css610_8g_2s_in#fndtn-specifications)
+- ~~Case Fans (140mm Arctic P14 - White)
 - [12TB](https://www.ebay.com/itm/156046813385?_skw=12tb&itmmeta=01JDSXESPRAVGN0VXN4Q1420BR&hash=item24551d68c9:g:buwAAOSwDghlwalj)-[14TB](https://www.ebay.com/itm/155672990441?_skw=14tb&epid=18059743338&itmmeta=01JDSXC2KQY51NQC1CEKSK09XK&hash=item243ed552e9:g:gggAAOSwwB5mL~fg) SATA HDD
 # Home Theater
 - Radxa X4 as x86 alternative HTPC (small N100 fanless with 4k/120 output)
-- [Kitchen in wall speakers](https://www.parts-express.com/Dayton-Audio-ME825W-8-2-Way-In-Wall-Speaker-Pair-300-439?quantity=1)
+- ~~[Kitchen in wall speakers](https://www.parts-express.com/Dayton-Audio-ME825W-8-2-Way-In-Wall-Speaker-Pair-300-439?quantity=1)
 - [WiiM Pro or Pro Plus or Mini](https://wiimhome.com/wiimpro/overview)
 - [MiniDSP](https://www.minidsp.com/products/minidsp-in-a-box/minidsp-2x4-hd)
 - Blu-rays: Building a collection of 4K UHD and standard 1080p Blu rays
@@ -41,7 +41,7 @@
 # Other
 - Laoshan black tea
 - bulk loose irish breakfast tea
-- Shaving brush building
+- ~~Shaving brush building
 	- [interesting store](https://yaqibrush.aliexpress.com/store/1101254565)
 # Books
 - Arkady Martine Rose/House
@@ -63,7 +63,7 @@
 	- Beckett Simonon (alt to john doe and thursday, Grant Stone)
 - shoelaces for black dress shoes
 # Grilling
-- Tongs
-- Gloves
+- ~~Tongs
+- ~~Gloves
 - Grill platter?
 - grill rescue brush or grill floss
