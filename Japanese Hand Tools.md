@@ -1,7 +1,3 @@
-I plan to spend $300 on this project, excluding wood costs.
-- $100 on saws, chisels, and knives
-- $100 on sharpening equipment (also useful for veneer and other chisel-related projects)
-- $100 on squares/analytical equipment/assorted supplies
 # Tools
 - 1" Chisel(s?)
 	- could be 3/4-1.5"
