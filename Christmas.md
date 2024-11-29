@@ -1,5 +1,5 @@
 # Computer
-- [Mikrotik 10Gbps switch](https://mikrotik.com/product/css610_8g_2s_in#fndtn-specifications)
+- ~~[Mikrotik 10Gbps switch](https://mikrotik.com/product/css610_8g_2s_in#fndtn-specifications)~~
 - Case Fans (140mm Arctic P14 - White)
 - [12TB](https://www.ebay.com/itm/156046813385?_skw=12tb&itmmeta=01JDSXESPRAVGN0VXN4Q1420BR&hash=item24551d68c9:g:buwAAOSwDghlwalj)-[14TB](https://www.ebay.com/itm/155672990441?_skw=14tb&epid=18059743338&itmmeta=01JDSXC2KQY51NQC1CEKSK09XK&hash=item243ed552e9:g:gggAAOSwwB5mL~fg) SATA HDD
 # Home Theater
