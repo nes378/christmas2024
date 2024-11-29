@@ -27,8 +27,8 @@
 	- pine cil brand
 	- [Hakko T12 clones](https://www.aliexpress.us/w/wholesale-hakko-t12-soldering-station.html?spm=a2g0o.home.auto_suggest.6.468a76dbxOaFek)
 # Brewing
-Brewing Bucket
-Shorter shank for kegerator
+- Brewing Bucket
+- Shorter shank for kegerator
 # Outdoors
 - Adventure shirt(s)
 - Compact camp chairs
