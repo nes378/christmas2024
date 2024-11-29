@@ -9,7 +9,7 @@
 - [MiniDSP](https://www.minidsp.com/products/minidsp-in-a-box/minidsp-2x4-hd)
 - Blu-rays: Building a collection of 4K UHD and standard 1080p Blu rays, especially [[4K Content]]
 # Woodworking
-- But there are some hand tools I'm interested in, [[kumiko|mostly described here]]
+- But there are some hand tools I'm interested in, [described here](https://github.com/nes378/christmas2024/blob/main/Japanese%20Hand%20Tools.md)
 	- Bench Chisels 12-18mm
 	- Marking knives left handed
 	- Dozuki Saw
