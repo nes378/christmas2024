@@ -46,6 +46,7 @@
 # Books
 - Arkady Martine Rose/House
 - Ann Leckie Ancillary Justice (trilogy)
+	- The first book in the series has been purchased
 - becky chambers 
 - Examples
 	- empress of forever, Max Gladstone
