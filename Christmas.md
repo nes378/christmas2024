@@ -36,8 +36,8 @@
 - Shorter shank for kegerator
 # Outdoors
 - Adventure shirt(s)
-- Compact camp chairs
-	- backpacking for desertween 
+- ~~Compact camp chairs~~
+	- ~~backpacking for desertween ~~
 # Other
 - Laoshan black tea
 - bulk loose irish breakfast tea
