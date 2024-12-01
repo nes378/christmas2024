@@ -66,5 +66,5 @@
 # Grilling
 - ~~Tongs~~
 - ~~Gloves~~
-- Grill platter?
-- grill rescue brush or grill floss
+- ~~Grill platter?~~
+- ~~grill rescue brush or grill floss~~
