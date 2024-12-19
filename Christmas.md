@@ -8,10 +8,10 @@
 - [WiiM Pro or Pro Plus or Mini](https://wiimhome.com/wiimpro/overview)
 - [MiniDSP](https://www.minidsp.com/products/minidsp-in-a-box/minidsp-2x4-hd)
 - Blu-rays: Building a collection of 4K UHD and standard 1080p Blu rays
-	- Interstellar
+	- ~~Interstellar~~
 	- Dunkirk
-	- Dark Knight trilogy
-	- Annihiliation
+	- ~~Dark Knight trilogy~~
+	- ~~Annihiliation~~
 	- [List of UHDs that utilize 4K or Higher Masters](https://forum.blu-ray.com/showthread.php?t=270798)
 # Woodworking
 - Some hand tools I'm interested in, [described here](https://github.com/nes378/christmas2024/blob/main/Japanese%20Hand%20Tools.md)
@@ -39,8 +39,8 @@
 - ~~Compact camp chairs~~
 	- ~~backpacking for desertween ~~
 # Other
-- Laoshan black tea
-- bulk loose irish breakfast tea
+- ~~Laoshan black tea~~
+- ~~bulk loose irish breakfast tea~~
 - ~~Shaving brush building~~
 	- [interesting store](https://yaqibrush.aliexpress.com/store/1101254565)
 # Books
