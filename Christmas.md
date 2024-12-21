@@ -52,7 +52,7 @@
 	- empress of forever, Max Gladstone
 	- last exit, Max Gladstone
 	- a long way to a small angry planet, Becky Chambers
-	- A desolation called peace, Arkady Martine
+	- ~~A desolation called peace, Arkady Martine~~
 # Clothes
 - Little light on everyday work shirts that are okay to wear out 
 - Light on jeans - like good dark wash ones 
