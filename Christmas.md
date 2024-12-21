@@ -9,7 +9,7 @@
 - [MiniDSP](https://www.minidsp.com/products/minidsp-in-a-box/minidsp-2x4-hd)
 - Blu-rays: Building a collection of 4K UHD and standard 1080p Blu rays
 	- ~~Interstellar~~
-	- Dunkirk
+	- ~~Dunkirk~~
 	- ~~Dark Knight trilogy~~
 	- ~~Annihiliation~~
 	- [List of UHDs that utilize 4K or Higher Masters](https://forum.blu-ray.com/showthread.php?t=270798)
@@ -44,7 +44,7 @@
 - ~~Shaving brush building~~
 	- [interesting store](https://yaqibrush.aliexpress.com/store/1101254565)
 # Books
-- Arkady Martine Rose/House
+- ~~Arkady Martine Rose/House~~
 - Ann Leckie Ancillary Justice (trilogy)
 	- The first book in the series has been purchased
 - becky chambers 
